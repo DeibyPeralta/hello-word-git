@@ -1,5 +1,7 @@
-# cabecera 1
+# Version del curso
+version actual v1.2.2
 
+# cabecera 1
 ## cabecera 2
 
 Alternativas a las cabeceras
