@@ -57,3 +57,27 @@ codigo en JSON
 | nombre | apellido | id |
 | ------ | -------- | ------ | 
 | andrea | reales   | 123 |
+| prueba | prueba2 | 321 |
+| ana | yoleth | 124
+
+# citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
+# lineas divisoras
+Esto es un texto que se dividira con giones medios
+
+---
+Esto es otro texto dividido con asteriscos.
+
+***
+
+# Saltos de lineas
+Este es el primer parrafo. 
+
+Este es el 2do parrafo
+
